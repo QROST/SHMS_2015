@@ -1,7 +1,7 @@
 # SHMS_2015
 A simulation program of a real-time vehicle loads monitoring and early warning system. Structural Health Monitoring System (SHMS).
  
-Implemented in Pyhton 2.7.x
+Implemented in Python 2.7.x
 
 Nowadays a large amount of bridges are operating widely in China. In order to ensure the
 performance and efficiency of the nation-wide highway transportation system, the demand of an
